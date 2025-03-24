@@ -1,0 +1,3 @@
+!pip install Pillow faker pytesseract scikit-learn
+!apt-get update
+!apt-get install -y tesseract-ocr
